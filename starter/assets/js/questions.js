@@ -14,7 +14,7 @@ const questions = [
     {
         word: 'Using a let variable before it is declared will result in ___________.',
         answerOptions: ['Undefined', 'Null', 'a Syntax Error', 'a Reference Error'],
-        correctAnswer: 'a Reference Error'
+        correctAnswer: 'a ReferenceError'
     },
 
     {
@@ -24,7 +24,6 @@ const questions = [
     }
 
 ];
-
 
 
 
